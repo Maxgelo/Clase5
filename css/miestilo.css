@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: blanchedalmond;
+
+}
+footer {  
+
+    background-color: black;
+    color: aqua;
+
+}
+article p span {
+    font-size:xx-large;
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold ;
+}
+
+.miclase1 {
+    color:chartreuse
+}
+
+#menu {
+    background-color: black;
+    color: blueviolet;
+}
+a:hover{
+    background-color:darkred;
+}
+img:hover{
+    opacity: 0;
+}
+footer p::before {
+    content: url(/img/pngtree-navigation-bar-3d-search-url-png-image_6360655.png);
+}
